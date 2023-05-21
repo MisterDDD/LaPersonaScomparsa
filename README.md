@@ -13,3 +13,9 @@ Music: online
 
 Da utilizzare con l'applicazione Valkyria (https://npbruce.github.io/valkyrie/)
 Immagini by NightCafe Studio (https://creator.nightcafe.studio/)
+
+[26-03-2022] Release 1.0
+
+[21-05-2023] Release 1.1
+- fix Investigatore Eliminato
+
