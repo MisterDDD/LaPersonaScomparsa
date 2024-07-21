@@ -19,3 +19,5 @@ Immagini by NightCafe Studio (https://creator.nightcafe.studio/)
 [21-05-2023] Release 1.1
 - fix Investigatore Eliminato
 
+[21-07-2024] Release 1.2
+- add language Spanish
